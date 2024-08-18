@@ -5750,8 +5750,16 @@ a.ui-button:active,
 @media (max-width: 1199px) {
     .static-hero-s3 .static-hero-right .wpo-wedding-date {
         padding: 5px 25px 25px;
+        position: relative;
+        top: 10px;
+        width: 100%;
+    }
+    .static-hero-s3{
+        overflow: visible;
     }
 }
+
+
 
 @media (max-width: 530px) {
     .static-hero-s3 .static-hero-right .wpo-wedding-date {
