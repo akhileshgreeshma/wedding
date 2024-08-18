@@ -5761,6 +5761,7 @@ a.ui-button:active,
 
 
 
+
 @media (max-width: 530px) {
     .static-hero-s3 .static-hero-right .wpo-wedding-date {
         padding: 5px 5px 20px;
@@ -24245,4 +24246,30 @@ a.ui-button:active,
 .single-team .wpo-contact-form-wrapper .submit-area {
     text-align: left;
     padding-left: 10px;
+}
+
+
+.header-hand{
+       max-width: 376px;
+    height: 376px;
+    margin: 0 auto;"
+}
+@media (max-width: 1700px) {
+    
+}
+
+@media (max-width: 991px) {
+    .header-hand{
+        max-width: 226px;
+        max-height: 226px;     
+    }
+   
+}
+
+@media (max-width: 575px) {
+    
+}
+
+@media (min-width: 1400px) {
+    
 }
