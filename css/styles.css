@@ -24249,6 +24249,8 @@ a.ui-button:active,
 }
 
 
+
+
 .header-hand{
        max-width: 376px;
     height: 376px;
@@ -24272,4 +24274,15 @@ a.ui-button:active,
 
 @media (min-width: 1400px) {
     
+}
+
+
+
+.schedule_section{
+    text-align: center;
+    background: #fff;
+    z-index: 999;
+    position: relative;
+    margin-top: -20px;
+    padding: 30px 0px;
 }
