@@ -213,3 +213,12 @@ object {
         color: #fff;
     }
 }
+
+.wpo-couple-section-s4{
+    padding-top: 120px;
+}
+@media (max-width: 767px) {
+    .wpo-couple-section-s4{
+    padding-top: 70px;
+}
+}
