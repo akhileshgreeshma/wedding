@@ -194,3 +194,22 @@ object {
     margin-top: -20px;
     padding: 30px 0px;
 }
+
+.counter_hide{
+    display: none;
+}
+
+
+#error_686998354d376f53f537bfa24ad640eaad97c977{
+    display: none;
+}
+
+.thanks{
+    color: #fff;
+    text-align: center;
+}
+.thanks{
+    h1,h2,h3,h4,h5,h6{
+        color: #fff;
+    }
+}
