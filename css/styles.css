@@ -5664,12 +5664,13 @@ a.ui-button:active,
 }
 
 .static-hero-s3 .slide-sub-title h3 {
-    font-family: "Jost", sans-serif;
+     font-family: "Sail", cursive;
     font-size: 70px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    color: #C8A898;
+        color: #637e6b;
+    margin-bottom: 0;
 }
 
 @media (max-width: 1399px) {
