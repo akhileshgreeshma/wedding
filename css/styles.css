@@ -24251,3 +24251,11 @@ a.ui-button:active,
 
 
 
+.mb15{
+    margin-bottom: 5px;
+}
+
+.owl-nav.disabled,
+.owl-dots{
+    display: none;
+}
