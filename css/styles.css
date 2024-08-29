@@ -24354,11 +24354,19 @@ a.ui-button:active,
     display: none;
 }
 
-body.modal-open{
-    .tx-location{
-        display: none;
-    }
-    .tx-home{
-    display: block;
+
+body.modal-open .tx-location{
+display: none;
 }
+
+body.modal-open .tx-home{
+display: block;
+height: 39.67px;
+line-height: 37px;
+}
+
+
+
+.bbhh i{
+    font-size: 24px;
 }
