@@ -24332,3 +24332,13 @@ a.ui-button:active,
 .location__card.no-border{
     border: 0;
 }
+
+.location__card img {
+    width: 80px;
+    /* background: #637e6b; */
+    height: 80px;
+    padding: 5px;
+    /* border-radius: 19px; */
+    /* border: 1px dashed #637e6b; */
+    margin-bottom: -7px;
+}
