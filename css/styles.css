@@ -24299,7 +24299,7 @@ a.ui-button:active,
       background: #637e6b;
       padding: 0;
       margin: auto;
-      padding: 8px 20px 8px 5px;
+      padding: 8px 20px 8px 20px;
       box-shadow: 0px 3px 12px 0px rgb(0 0 0 / 32%);
       border-radius: 200px;
       width: 160px;
@@ -24341,4 +24341,24 @@ a.ui-button:active,
     /* border-radius: 19px; */
     /* border: 1px dashed #637e6b; */
     margin-bottom: -7px;
+}
+
+.tx-location{
+    display: block;
+}
+.tx-location img{
+        margin-left: -11px;
+}
+
+.tx-home{
+    display: none;
+}
+
+body.modal-open{
+    .tx-location{
+        display: none;
+    }
+    .tx-home{
+    display: block;
+}
 }
